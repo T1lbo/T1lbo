@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning Python, along with linux
 - 💞️ I’m looking to collaborate on Nothing currently.
 
+## Security playbooks
+
+- [Microsoft Defender for Endpoint Device Control Baseline (Windows)](docs/mde-device-control-baseline.md)
+
 <!---
 T1lbo/T1lbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
